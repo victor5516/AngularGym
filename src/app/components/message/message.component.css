@@ -1,0 +1,23 @@
+.message-area {
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../../../assets/images/d1.jpg);
+	object-fit: cover;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+	color: #fff;
+	text-align: center;
+}
+
+.message-content h2{
+    font-size: 35px;
+    color: #bf0a30;
+}
+
+.message-area p {
+    max-width: 800px;
+    margin-bottom: 35px;
+    line-height: 1.5;
+    text-align: center;
+    padding-left: 0;
+    font-size: 20px;
+}
